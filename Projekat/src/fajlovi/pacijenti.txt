@@ -1,0 +1,4 @@
+Sima|Simic|7899871233211|MUSKI|Branimira Cosica 19|5829023|sima|sima|PACIJENT|pera|1
+Bata|Batic|5728935892384|MUSKI|Kraljevica Marka 40|3857624|bata|bata|PACIJENT|pera|2
+Dara|Daric|7423947324982|ZENSKI|Slobodana Bajica 33|5352657|dara|dara|PACIJENT|luka|3
+Mita|Mitic|3523949602834|MUSKI|Backa 1|1247654|mita|mita|PACIJENT|pera|4

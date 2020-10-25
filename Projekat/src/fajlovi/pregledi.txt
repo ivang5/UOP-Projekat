@@ -1,0 +1,9 @@
+0|sima|pera|23.11.2019. 15:30|4|neki opis|ZAVRSEN
+1|bata|pera|02.02.2020. 13:00|2|nesto bezveze|ZAVRSEN
+2|dara|luka|29.11.2019. 10:45|2|nesto nesto nesto|ZAVRSEN
+3|mita|mara|27.09.2019. 09:00|5|opis opis opis|ZAKAZAN
+4|sima|pera|02.02.2021. 12:00|5|opis pregleda|ZAKAZAN
+5|sima|pera|30.11.0002. 00:00|5|opis pregleda|ZATRAZEN
+6|mita|mara|30.11.0002. 00:00|1|opis pregleda|ZATRAZEN
+7|dara|luka|30.11.0002. 00:00|4|opis pregleda|ZATRAZEN
+9|sima|pera|23.12.2020. 14:30|2|nesto nesto nesto|ZAKAZAN
